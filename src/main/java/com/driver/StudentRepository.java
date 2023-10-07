@@ -72,7 +72,6 @@ Teacher teacher1=new Teacher("jhon",50,29);
 
 //        List<Student> studentsForTeacher = studentTeacherMap.get(teacher);
 //
-//        // Check if the student is already added for the teacher
 //        if (studentsForTeacher.contains(student)) {
 //            System.out.println("Student '" + student.getName() + "' already added to Teacher '" + teacher.getName() + "'.");
 //        } else {
